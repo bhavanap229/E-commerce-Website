@@ -1,0 +1,409 @@
+{
+  "seller": [
+    {
+      "name": "Bhavana Patil",
+      "email": "bhavu229@gmail.com",
+      "password": "abc@229",
+      "id": 1
+    },
+    {
+      "name": "Roshni Patil",
+      "email": "roshu3108@gmail.com",
+      "password": "pqr@318",
+      "id": 2
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 3
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 4
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 5
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 6
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 7
+    },
+    {
+      "name": "Akriti Patil",
+      "password": "ak0026",
+      "email": "21amtics346@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Bhavana Patil",
+      "password": "3YUdt4Aetz!45RQ",
+      "email": "21amtics346@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Bhavana Patil",
+      "password": "3YUdt4Aetz!45RQ",
+      "email": "21amtics346@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Bhavana Patil",
+      "password": "3YUdt4Aetz!45RQ",
+      "email": "21amtics346@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "",
+      "password": "3YUdt4Aetz!45RQ",
+      "email": "21amtics346@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Akriti Patil",
+      "password": "ak011026",
+      "email": "akku26@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Akriti Patil",
+      "password": "ak011026",
+      "email": "akku26@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Akriti Patil",
+      "password": "ak011026",
+      "email": "akku26@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Bhavana Patil",
+      "password": "",
+      "email": "bhavana2209@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Bhavana Patil",
+      "password": "bhavana221",
+      "email": "bhavana2209@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Bhavana Patil",
+      "password": "bhavana221",
+      "email": "bhavana2209@gmail.com",
+      "id": 18
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung galaxy S21 Ultra",
+      "price": "140000",
+      "category": "mobile",
+      "color": "black",
+      "description": "this is a Samsung product",
+      "image": "https://th.bing.com/th/id/OIP.ilci8JvmMUoe8Ib52190ggHaEK?w=249&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 1
+    },
+    {
+      "name": "I phone 14pro max",
+      "price": "130000",
+      "category": "mobile",
+      "color": "purple",
+      "description": "An Apple Product",
+      "image": "https://th.bing.com/th/id/OIP.YfnLRVia6vNIMmvyjKcnCAHaHa?w=182&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 3
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 4
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confortable jeans for women",
+      "image": "data:image/jpeg;base64,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",
+      "id": 5
+    },
+    {
+      "name": "Truck",
+      "price": "500",
+      "category": "Toys",
+      "color": "Red",
+      "description": "A toy for 5 year old child",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "id": 6
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 7
+    },
+    {
+      "name": "Apple Watch Series 8",
+      "price": "45000",
+      "category": "Watch",
+      "color": "gold",
+      "description": "Iwatch series 8 for men and women both",
+      "image": "https://th.bing.com/th/id/OIP.dITeL4W49ks3lKL3-NyRIAHaHa?w=176&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 8
+    },
+    {
+      "name": "Boat Airdopes 131",
+      "price": "1380",
+      "category": "Wireless Earbuds",
+      "color": "black",
+      "description": "Wireless buds - provide better quality",
+      "image": "https://static1.industrybuying.com/products/it-electronics/audio/headphones/COR.EAR.55666136_1668198156370.webp",
+      "id": 9
+    },
+    {
+      "name": "SONY WH-CH720 Bluetooth Headphone with Mic",
+      "price": "9900",
+      "category": "headphone",
+      "color": "black",
+      "description": "Headphones for better sound quality",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1697622241/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/270320_kozcvt.png?tr=w-640",
+      "id": 10
+    },
+    {
+      "name": "Nikon D7200 DSLR Camera",
+      "price": "35000",
+      "category": "Camera",
+      "color": "black",
+      "description": "Captures every moment of your life",
+      "image": "https://th.bing.com/th/id/OIP.0lxRsfgkqLRRKOtUJqEjHQHaHa?w=187&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "name": "bhavana",
+      "email": "bp@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "roshni",
+      "email": "roshni@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "nikk",
+      "email": "nik@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "nilam",
+      "email": "nil@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "Nikhil Kuwar",
+      "email": "nik",
+      "password": "3YUdt4Aetz!45RQ",
+      "id": 5
+    },
+    {
+      "name": "22bp",
+      "email": "22bp@gmail.com",
+      "password": "2222bp",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "rk0824",
+      "email": "21amtics346@gmail.com",
+      "password": "8489495",
+      "id": 8
+    },
+    {
+      "name": "Bhavana",
+      "email": "bhavu2209@gmail.com",
+      "password": "bhavana2209",
+      "id": 9
+    },
+    {
+      "name": "bp@user.com",
+      "email": "bhavana2209@gmail.com",
+      "password": "abc123",
+      "id": 10
+    },
+    {
+      "name": "Nikhil Kuwar",
+      "email": "nikhil01@gmail.com",
+      "password": "bhavana2204",
+      "id": 11
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.bing.com/images/search?view=detailV2&ccid=tZ6j3%2bsE&id=3524417BE49747548AF38B05676AB2568C385FE8&thid=OIP.tZ6j3-sEz_oc1w60CoXddgHaLW&mediaurl=https%3a%2f%2fwww.fashiongonerogue.com%2fwp-content%2fuploads%2f2020%2f10%2fWomens-Topshop-High-Waist-Ripped-Hem-Mom-Jeans-Size-36W-x-30L-Blue-5-scaled.jpg&exph=2560&expw=1670&q=mom+jeans+for+women&simid=608049481436052283&FORM=IRPRST&ck=8C9CF3752FF4BB2988C52AC5706E3F50&selectedIndex=0",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "quantity": 5,
+      "productId": 7,
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 3,
+      "productId": 1,
+      "userId": 6,
+      "id": 10
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 1,
+      "id": 11
+    }
+  ],
+  "orders": [
+    {
+      "email": "bhavana@user.com",
+      "address": "26 Sainath society, Dindoli -Surat",
+      "contact": "49885584",
+      "totalPrice": 150100,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "email": "21amtics346@gmail.com",
+      "address": "26 Sainath society, Dindoli -Surat",
+      "contact": "49885584",
+      "totalPrice": 135100,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 180100,
+      "userId": 8,
+      "id": 4
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 180100,
+      "userId": 8,
+      "id": 5
+    },
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 10240,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "email": "nikhil01@gmail.com",
+      "address": "26 Shivkrupa society, Dindoli -Surat",
+      "contact": "9022634407",
+      "totalPrice": 200100,
+      "userId": 10,
+      "id": 9
+    },
+    {
+      "email": "nikhil01@gmail.com",
+      "address": "26 Shivkrupa society, Dindoli -Surat",
+      "contact": "9022634407",
+      "totalPrice": 357000,
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "email": "bhavana2209@gmail.com",
+      "address": "26 Sainath society, Dindoli -Surat",
+      "contact": "9022634407",
+      "totalPrice": 130100,
+      "userId": 1,
+      "id": 11
+    }
+  ]
+}
